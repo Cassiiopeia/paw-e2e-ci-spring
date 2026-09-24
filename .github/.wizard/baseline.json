@@ -1,6 +1,6 @@
 {
   "templateVersion": "0.12.0",
-  "installedAt": "2026-09-24 17:37:13",
+  "installedAt": "2026-09-24 17:41:45",
   "files": {
     "PROJECT-COMMON-AI-PR-SUMMARY.yaml": {
       "installed": "sha256:802fd863a34c622e66cf42bf1561129f7a4758f6851322b285cde32d2502d7ae",
@@ -33,6 +33,18 @@
     "PROJECT-SPRING-SIMPLE-CICD.yaml": {
       "installed": "sha256:476e7c3a8e69eff8c710254921e00f4307f2cfaa21d1bd636e958e805a8c2594",
       "rendered": "sha256:476e7c3a8e69eff8c710254921e00f4307f2cfaa21d1bd636e958e805a8c2594"
+    },
+    "PROJECT-SPRING-GITHUB-PACKAGES-PUBLISH.yml": {
+      "installed": "sha256:4abdbfbeb79f0030f375727d2bf912856e755ea40ead73d87219417d2605efb0",
+      "rendered": "sha256:4abdbfbeb79f0030f375727d2bf912856e755ea40ead73d87219417d2605efb0"
+    },
+    "PROJECT-SPRING-NEXUS-CI.yml": {
+      "installed": "sha256:816ca9a0ce6a2be88b752f96acac1e4c1ce3032b6813937a85974ae406a6a1ca",
+      "rendered": "sha256:816ca9a0ce6a2be88b752f96acac1e4c1ce3032b6813937a85974ae406a6a1ca"
+    },
+    "PROJECT-SPRING-NEXUS-PUBLISH.yml": {
+      "installed": "sha256:e7aad58a44373b32b65fcbee84d0b462cb2d20ed2477d15f0ecccca3f25ed14b",
+      "rendered": "sha256:e7aad58a44373b32b65fcbee84d0b462cb2d20ed2477d15f0ecccca3f25ed14b"
     }
   }
 }
